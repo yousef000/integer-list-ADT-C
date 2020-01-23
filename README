@@ -1,0 +1,15 @@
+List.c
+Yousef Dost
+ydost@ucsc.edu
+PA2
+README File
+
+PA2 Files:
+
+1) Lex.c : A test client for the List ADT. It will take two command line arguments giving the names of an input file and an output file. The input can be any text file. The output file will contain the same lines as the input arranged in lexicographic (i.e. alphabetical) order.
+
+2) List.c : An integer List ADT
+
+3) ListClient.c : A test client for the List ADT. Use this to test your list module. The correct output is given at the end. Unaltered file provided by the instructor.  
+
+4) MakeFile : Unaltered file provided by the instructor. 
